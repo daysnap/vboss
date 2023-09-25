@@ -1,0 +1,22 @@
+{
+  "name": "@vboss/monorepo",
+  "private": true,
+  "version": "0.0.1",
+  "description": "vue3 + element-plus",
+  "packageManager": "pnpm@8.7.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "admin",
+    "boss",
+    "vboss",
+    "daysnap",
+    "hooks",
+    "use",
+    "vue"
+  ],
+  "author": "woshiajuana",
+  "license": "MIT"
+}
