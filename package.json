@@ -7,6 +7,7 @@
   "main": "index.js",
   "scripts": {
     "preinstall": "npx only-allow pnpm",
+    "clean": "rimraf --glob **/node_modules",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
@@ -27,6 +28,7 @@
     "eslint-config-prettier": "^9.0.0",
     "eslint-plugin-prettier": "^5.0.0",
     "eslint-plugin-vue": "^9.17.0",
-    "prettier": "^3.0.3"
+    "prettier": "^3.0.3",
+    "rimraf": "^5.0.5"
   }
 }

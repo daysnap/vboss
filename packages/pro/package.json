@@ -11,5 +11,9 @@
     "core"
   ],
   "author": "woshiajuana",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@daysnap/utils": "^0.0.64",
+    "element-plus": "^2.3.14"
+  }
 }
